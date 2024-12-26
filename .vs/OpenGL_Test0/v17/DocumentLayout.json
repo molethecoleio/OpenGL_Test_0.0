@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paradox\\source\\repos\\OpenGL_Test0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFCD182-A108-4CAB-9267-535E1C4D6562}|OpenGL_Test0\\OpenGL_Test0.vcxproj|C:\\Users\\Paradox\\source\\repos\\OpenGL_Test0\\OpenGL_Test0\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5EFCD182-A108-4CAB-9267-535E1C4D6562}|OpenGL_Test0\\OpenGL_Test0.vcxproj|solutionrelative:OpenGL_Test0\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Paradox\\source\\repos\\OpenGL_Test0\\OpenGL_Test0\\main.cpp",
+              "RelativeDocumentMoniker": "OpenGL_Test0\\main.cpp",
+              "ToolTip": "C:\\Users\\Paradox\\source\\repos\\OpenGL_Test0\\OpenGL_Test0\\main.cpp",
+              "RelativeToolTip": "OpenGL_Test0\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T09:50:59.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
